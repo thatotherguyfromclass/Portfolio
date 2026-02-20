@@ -33,7 +33,8 @@ const Hero = () => {
           </a>
 
           <a
-            href="/cv.pdf"
+            href="/Prince-Odunlami-CV.pdf"
+            download
             className="border border-white/10 text-[#e6ecff] font-semibold px-6 py-3 rounded-full hover:border-[#6cf6ff] hover:text-[#6cf6ff] transition"
           >
             Download CV
